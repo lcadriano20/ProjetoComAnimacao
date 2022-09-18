@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+}
+:root {
+    --primary-color:black;
+    --secondary-color: #f2f2f2;
+    --decoration-color: #c79800;
+}
+body {
+    background-color: var(--secondary-color);
+    font-family: 'Roboto';
+    color:var(--primary-color);
+    width: 100%;
+}
